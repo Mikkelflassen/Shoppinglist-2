@@ -15,7 +15,7 @@ html, body {
 }
 
 img {
-    width: 150px;
+    width: 320px;
     margin: 0 auto;
 }
 
@@ -33,7 +33,7 @@ input {
 
 button {
     color: #FDFDFD;
-    background-color: #AC485A;
+    background-color: #ecaa68;
     border: 0;
     padding: 15px;
     border-radius: 8px;
@@ -66,6 +66,6 @@ ul li {
 }
 
 ul li:hover {
-    background-color: #FFECC7;
+    background-color: #f6cd7b;
     cursor: pointer;
 }
